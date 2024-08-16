@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6FA2E1&height=300&section=header&text=🙂+dayeon%20kimm+🙃&fontSize=70&fontColor=FFFFFF&animation=twinkling&descSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6FA2E1&height=300&section=header&text=🙂+Gomnonix%20+🙃&fontSize=70&fontColor=FFFFFF&animation=twinkling&descSize=30)
 
 <h3 align="center">  
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2dayeonkimm&count_bg=%23D2F3FF&title_bg=%235EEAFF&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a><br>
@@ -8,12 +8,12 @@
 <p align="center">
   
   <br>
-  🎓 I graduated from Hongik University and majored in Chemical Engineering.
+  🎓 I graduated from Gachon University and majored in Eletronic Engineering.
   <br>
   💻 I love coding and learning new things!
   <br>
   <br>
-  📫 How to reach me: <a href="mailto: ekdyd516@gmail.com">ekdyd516@gmail.com</a>
+  📫 How to reach me: <a href="mailto: lee20481997@gmail.com">lee20481997@gmail.com</a>
 </p>
 
 <hr>
@@ -167,8 +167,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align='center'>
- <img height="180" src='https://github-readme-stats.vercel.app/api?username=dayeonkimm&show_icons=true'>
- <img height="180" src='https://github-readme-stats.vercel.app/api/top-langs/?username=dayeonkimm&layout=compact'>
+ <img height="180" src='https://github-readme-stats.vercel.app/api?username=Gomnonix&show_icons=true'>
+ <img height="180" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Gomnonix&layout=compact'>
 	
 ### 🧑‍🎓 Programmers
 
@@ -176,33 +176,27 @@
 
 ### 🧑‍🎓 BAEKJOON
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=da9066)](https://solved.ac/da9066)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=colra6)](https://solved.ac/colra6)
 </div>
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div align='center'>
- <a href='https://github.com/dayeonkimm/OZ'>
-  <image src='https://github-readme-stats.vercel.app/api/pin/?username=dayeonkimm&repo=OZ'>
+  <a href='https://github.com/Gomnonix/django-youtube-restapi'>
+  <image src='https://github-readme-stats.vercel.app/api/pin/?username=Gomnonix&repo=django-youtube-restapi'>
  </a>
-  <a href='https://github.com/dayeonkimm/CodingTest_Practice'>
-  <image src='https://github-readme-stats.vercel.app/api/pin/?username=dayeonkimm&repo=CodingTest_Practice'>
- </a>
-  <a href='https://github.com/OZ-Coding-School/oz_03_main-004-BE'>
- <image src='https://github-readme-stats.vercel.app/api/pin/?username=OZ-Coding-School&repo=oz_03_main-004-BE'>
+  <a href='https://github.com/OZ-Coding-School/oz_03_main-001-BE'>
+ <image src='https://github-readme-stats.vercel.app/api/pin/?username=OZ-Coding-School&repo=oz_03_main-001-BE'>
 </a>
- <a href='https://github.com/NewsCoCo/NewsCoCo'>
-<image src='https://github-readme-stats.vercel.app/api/pin/?username=NewsCoCo&repo=NewsCoCo'>
- </a>
   </div>
 
 <h4 align="center">
-  <a href="https://github.com/dayeonkimm?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Gomnonix?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 <hr>
 
 <p align="center">
-<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/dayeonkimm/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/Gomnonix/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
 </p>
-<img src="https://github.com/dayeonkimm/dayeonkimm/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/Gomnonix/Gomnonix/blob/output/github-contribution-grid-snake.svg"/>
 <hr>
