@@ -148,10 +148,6 @@
 <div align='center'>
  <img height="180" src='https://github-readme-stats.vercel.app/api?username=Gomnonix&show_icons=true'>
  <img height="180" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Gomnonix&layout=compact'>
-	
-### 🧑‍🎓 Programmers
-
-[![](https://github.com/dayeonkimm/github-programmers-rank/blob/main/lib/result.svg)](https://github.com/dayeonkimm/github-programmers-rank)
 
 ### 🧑‍🎓 BAEKJOON
 [![Solved.ac
@@ -166,6 +162,9 @@
  </a>
   <a href='https://github.com/OZ-Coding-School/oz_03_main-001-BE'>
  <image src='https://github-readme-stats.vercel.app/api/pin/?username=OZ-Coding-School&repo=oz_03_main-001-BE'>
+</a>
+  <a href='https://github.com/OZ-Coding-School/oz_03_collabo-002-BE'>
+ <image src='https://github-readme-stats.vercel.app/api/pin/?username=OZ-Coding-School&repo=oz_03_collabo-002-BE'>
 </a>
   </div>
 
