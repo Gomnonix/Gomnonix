@@ -172,9 +172,3 @@
   <a href="https://github.com/Gomnonix?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 <hr>
-
-<p align="center">
-<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/Gomnonix/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
-</p>
-<img src="https://github.com/Gomnonix/Gomnonix/blob/output/github-contribution-grid-snake.svg"/>
-<hr>
