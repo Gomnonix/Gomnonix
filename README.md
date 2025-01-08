@@ -166,6 +166,9 @@
   <a href='https://github.com/OZ-Coding-School/oz_03_collabo-002-BE'>
  <image src='https://github-readme-stats.vercel.app/api/pin/?username=OZ-Coding-School&repo=oz_03_collabo-002-BE'>
 </a>
+  <a href='https://github.com/Prompt-Exercising/Prompt-EX'>
+ <image src='https://github-readme-stats.vercel.app/api/pin/?username=Prompt-Exercising&repo=Prompt-EX'>
+</a>
   </div>
 
 <h4 align="center">
